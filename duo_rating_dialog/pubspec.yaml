@@ -2,7 +2,7 @@ name: duo_rating_dialog
 description: An extended version of the rating_dialog package. Allows user to
   rate two Star Rating bars.
 version: 0.1.1
-homepage: https://github.com/vipinkashyap/duo_rating_dialog
+homepage: https://github.com/vipinkashyap/dart_flutter_packages
 
 environment:
   sdk: ">=3.1.0 <4.0.0"
