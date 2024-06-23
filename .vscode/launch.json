@@ -1,0 +1,48 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "duo_rating_dialog",
+            "cwd": "duo_rating_dialog",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "duo_rating_dialog (profile mode)",
+            "cwd": "duo_rating_dialog",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "duo_rating_dialog (release mode)",
+            "cwd": "duo_rating_dialog",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "test_app_duo_rating_dialog",
+            "cwd": "duo_rating_dialog/example/test_app_duo_rating_dialog",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "test_app_duo_rating_dialog (profile mode)",
+            "cwd": "duo_rating_dialog/example/test_app_duo_rating_dialog",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "test_app_duo_rating_dialog (release mode)",
+            "cwd": "duo_rating_dialog/example/test_app_duo_rating_dialog",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
